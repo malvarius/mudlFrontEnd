@@ -24,7 +24,7 @@ User profile that keeps track of your moods over the last month, randomly genera
 
 ## Installation
 ### Prequisites
-  you will need to have react-native and expo cli installed on your computer. Additionally you will need an androir or ios emulator to run the development environment. In exchange for have the emulators on your computer which using a lot of memory and make your computer run slower, you can also install the expo-client app from the android or apple store where you can take a picture of the qr code with your phone to run as a development enviroment.
+  you will need to have react-native and expo cli installed on your computer. Additionally you will need an android or ios emulator to run the development environment. In exchange for have the emulators on your computer which using a lot of memory and make your computer run slower, you can also install the expo-client app from the android or apple store where you can take a picture of the qr code with your phone to run as a development enviroment.
  ### System Requirements
   * clone down the repository
   * npm install
